@@ -1,8 +1,8 @@
  🧮 Calculator Application
 
-A simple, user-friendly **Calculator Application** developed using **Python** as part of the **CodSoft Python Programming Internship – Task 2**. This project performs basic arithmetic operations through a menu-driven command-line interface while demonstrating clean coding practices, modular programming, and input validation.
+A simple, user-friendly "Calculator Application" developed using Python as part of the "CodSoft Python Programming Internship – Task 2". This project performs basic arithmetic operations through a menu-driven command-line interface while demonstrating clean coding practices, modular programming, and input validation.
 
----
+
 
  📌 Features
 
